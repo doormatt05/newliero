@@ -1,4 +1,4 @@
-//set x and y equal to the set velocities
+//add set velocities to the x and y
 x += xvel;
 y += yvel;
 
