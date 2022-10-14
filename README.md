@@ -1,7 +1,5 @@
 # newliero
 
-liero remake project files
-
 end goal is to have replicated liero, but to also add:
 
 revamped gun mechanics, unique gun sprites, revamped worm physics, better grappling hook physics, new digging system
